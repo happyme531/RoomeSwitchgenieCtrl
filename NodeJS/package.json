@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "node-ble": "^1.5.0"
+  }
+}
